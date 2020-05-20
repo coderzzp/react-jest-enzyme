@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button 组件测试 3秒后渲染正常 1`] = `"<div><div class=\\"button\\">buttonAfter3seconds</div></div>"`;
